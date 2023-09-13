@@ -12,6 +12,10 @@
 
 ![s2](./assets/s2.webp)
 
+<iframe src="https://player.rss.com/good-old-news/1119542" style="width: 100%" title="Good Old News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen><a href="https://rss.com/podcasts/good-old-news/1119542/">Matthew 24 | RSS.com</a></iframe>
+
+
+
 - AND Jesus went out, and departed from the temple: and his disciples came to *him* for to shew him the buildings of the temple.
 - 2 And Jesus said unto them, See ye not all these things? verily I say unto you, There shall not be left here one stone upon another, that shall not be thrown down.
 - 3 And as he sat upon the mount of Olives, the disciples came unto him privately, saying, Tell us, when shall these things be? and what *shall* *be* the sign of thy coming, and of the end of the world?
@@ -67,6 +71,8 @@
 ---
 
 ![s3](./assets/s3.webp)
+
+<iframe src="https://player.rss.com/good-old-news/1119543" style="width: 100%" title="Good Old News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen><a href="https://rss.com/podcasts/good-old-news/1119543/">Luke 21 | RSS.com</a></iframe>
 
 AND he looked up, and saw the rich men casting their gifts into the treasury.
 
@@ -147,6 +153,8 @@ AND he looked up, and saw the rich men casting their gifts into the treasury.
 ---
 
 ![s4](./assets/s4.webp)
+
+<iframe src="https://player.rss.com/good-old-news/1119544" style="width: 100%" title="Good Old News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen><a href="https://rss.com/podcasts/good-old-news/1119544/">Mark 13 | RSS.com</a></iframe>
 
 AND as he went out of the temple, one of his disciples saith unto him, Master, see what manner of stones and what buildings *are* *here!*
 
