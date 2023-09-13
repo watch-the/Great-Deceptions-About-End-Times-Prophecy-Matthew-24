@@ -1,0 +1,973 @@
+<!doctype html>
+<html>
+<head>
+<meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
+
+<link href='https://fonts.googleapis.com/css2?family=Montagu+Slab:opsz,wght@16..144,100;16..144,300;16..144,500;16..144,700&display=swap' rel='stylesheet' type='text/css' /><style type='text/css'>html {overflow-x: initial !important;}:root { --bg-color:#ffffff; --text-color:#333333; --select-text-bg-color:#B5D6FC; --select-text-font-color:auto; --monospace:"Lucida Console",Consolas,"Courier",monospace; --title-bar-height:20px; }
+.mac-os-11 { --title-bar-height:28px; }
+html { font-size: 14px; background-color: var(--bg-color); color: var(--text-color); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; -webkit-font-smoothing: antialiased; }
+h1, h2, h3, h4, h5 { white-space: pre-wrap; }
+body { margin: 0px; padding: 0px; height: auto; inset: 0px; font-size: 1rem; line-height: 1.42857; overflow-x: hidden; background: inherit; tab-size: 4; }
+iframe { margin: auto; }
+a.url { word-break: break-all; }
+a:active, a:hover { outline: 0px; }
+.in-text-selection, ::selection { text-shadow: none; background: var(--select-text-bg-color); color: var(--select-text-font-color); }
+#write { margin: 0px auto; height: auto; width: inherit; word-break: normal; overflow-wrap: break-word; position: relative; white-space: normal; overflow-x: visible; padding-top: 36px; }
+#write.first-line-indent p { text-indent: 2em; }
+#write.first-line-indent li p, #write.first-line-indent p * { text-indent: 0px; }
+#write.first-line-indent li { margin-left: 2em; }
+.for-image #write { padding-left: 8px; padding-right: 8px; }
+body.typora-export { padding-left: 30px; padding-right: 30px; }
+.typora-export .footnote-line, .typora-export li, .typora-export p { white-space: pre-wrap; }
+.typora-export .task-list-item input { pointer-events: none; }
+@media screen and (max-width: 500px) {
+  body.typora-export { padding-left: 0px; padding-right: 0px; }
+  #write { padding-left: 20px; padding-right: 20px; }
+}
+#write li > figure:last-child { margin-bottom: 0.5rem; }
+#write ol, #write ul { position: relative; }
+img { max-width: 100%; vertical-align: middle; image-orientation: from-image; }
+button, input, select, textarea { color: inherit; font: inherit; }
+input[type="checkbox"], input[type="radio"] { line-height: normal; padding: 0px; }
+*, ::after, ::before { box-sizing: border-box; }
+#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p, #write pre { width: inherit; }
+#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p { position: relative; }
+p { line-height: inherit; }
+h1, h2, h3, h4, h5, h6 { break-after: avoid-page; break-inside: avoid; orphans: 4; }
+p { orphans: 4; }
+h1 { font-size: 2rem; }
+h2 { font-size: 1.8rem; }
+h3 { font-size: 1.6rem; }
+h4 { font-size: 1.4rem; }
+h5 { font-size: 1.2rem; }
+h6 { font-size: 1rem; }
+.md-math-block, .md-rawblock, h1, h2, h3, h4, h5, h6, p { margin-top: 1rem; margin-bottom: 1rem; }
+.hidden { display: none; }
+.md-blockmeta { color: rgb(204, 204, 204); font-weight: 700; font-style: italic; }
+a { cursor: pointer; }
+sup.md-footnote { padding: 2px 4px; background-color: rgba(238, 238, 238, 0.7); color: rgb(85, 85, 85); border-radius: 4px; cursor: pointer; }
+sup.md-footnote a, sup.md-footnote a:hover { color: inherit; text-transform: inherit; text-decoration: inherit; }
+#write input[type="checkbox"] { cursor: pointer; width: inherit; height: inherit; }
+figure { overflow-x: auto; margin: 1.2em 0px; max-width: calc(100% + 16px); padding: 0px; }
+figure > table { margin: 0px; }
+thead, tr { break-inside: avoid; break-after: auto; }
+thead { display: table-header-group; }
+table { border-collapse: collapse; border-spacing: 0px; width: 100%; overflow: auto; break-inside: auto; text-align: left; }
+table.md-table td { min-width: 32px; }
+.CodeMirror-gutters { border-right: 0px; background-color: inherit; }
+.CodeMirror-linenumber { user-select: none; }
+.CodeMirror { text-align: left; }
+.CodeMirror-placeholder { opacity: 0.3; }
+.CodeMirror pre { padding: 0px 4px; }
+.CodeMirror-lines { padding: 0px; }
+div.hr:focus { cursor: none; }
+#write pre { white-space: pre-wrap; }
+#write.fences-no-line-wrapping pre { white-space: pre; }
+#write pre.ty-contain-cm { white-space: normal; }
+.CodeMirror-gutters { margin-right: 4px; }
+.md-fences { font-size: 0.9rem; display: block; break-inside: avoid; text-align: left; overflow: visible; white-space: pre; background: inherit; position: relative !important; }
+.md-fences-adv-panel { width: 100%; margin-top: 10px; text-align: center; padding-top: 0px; padding-bottom: 8px; overflow-x: auto; }
+#write .md-fences.mock-cm { white-space: pre-wrap; }
+.md-fences.md-fences-with-lineno { padding-left: 0px; }
+#write.fences-no-line-wrapping .md-fences.mock-cm { white-space: pre; overflow-x: auto; }
+.md-fences.mock-cm.md-fences-with-lineno { padding-left: 8px; }
+.CodeMirror-line, twitterwidget { break-inside: avoid; }
+svg { break-inside: avoid; }
+.footnotes { opacity: 0.8; font-size: 0.9rem; margin-top: 1em; margin-bottom: 1em; }
+.footnotes + .footnotes { margin-top: 0px; }
+.md-reset { margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: top; background: 0px 0px; text-decoration: none; text-shadow: none; float: none; position: static; width: auto; height: auto; white-space: nowrap; cursor: inherit; -webkit-tap-highlight-color: transparent; line-height: normal; font-weight: 400; text-align: left; box-sizing: content-box; direction: ltr; }
+li div { padding-top: 0px; }
+blockquote { margin: 1rem 0px; }
+li .mathjax-block, li p { margin: 0.5rem 0px; }
+li blockquote { margin: 1rem 0px; }
+li { margin: 0px; position: relative; }
+blockquote > :last-child { margin-bottom: 0px; }
+blockquote > :first-child, li > :first-child { margin-top: 0px; }
+.footnotes-area { color: rgb(136, 136, 136); margin-top: 0.714rem; padding-bottom: 0.143rem; white-space: normal; }
+#write .footnote-line { white-space: pre-wrap; }
+@media print {
+  body, html { border: 1px solid transparent; height: 99%; break-after: avoid; break-before: avoid; font-variant-ligatures: no-common-ligatures; }
+  #write { margin-top: 0px; border-color: transparent !important; padding-top: 0px !important; padding-bottom: 0px !important; }
+  .typora-export * { -webkit-print-color-adjust: exact; }
+  .typora-export #write { break-after: avoid; }
+  .typora-export #write::after { height: 0px; }
+  .is-mac table { break-inside: avoid; }
+  #write > p:nth-child(1) { margin-top: 0px; }
+  .typora-export-show-outline .typora-export-sidebar { display: none; }
+  figure { overflow-x: visible; }
+}
+.footnote-line { margin-top: 0.714em; font-size: 0.7em; }
+a img, img a { cursor: pointer; }
+pre.md-meta-block { font-size: 0.8rem; min-height: 0.8rem; white-space: pre-wrap; background: rgb(204, 204, 204); display: block; overflow-x: hidden; }
+p > .md-image:only-child:not(.md-img-error) img, p > img:only-child { display: block; margin: auto; }
+#write.first-line-indent p > .md-image:only-child:not(.md-img-error) img { left: -2em; position: relative; }
+p > .md-image:only-child { display: inline-block; width: 100%; }
+#write .MathJax_Display { margin: 0.8em 0px 0px; }
+.md-math-block { width: 100%; }
+.md-math-block:not(:empty)::after { display: none; }
+.MathJax_ref { fill: currentcolor; }
+[contenteditable="true"]:active, [contenteditable="true"]:focus, [contenteditable="false"]:active, [contenteditable="false"]:focus { outline: 0px; box-shadow: none; }
+.md-task-list-item { position: relative; list-style-type: none; }
+.task-list-item.md-task-list-item { padding-left: 0px; }
+.md-task-list-item > input { position: absolute; top: 0px; left: 0px; margin-left: -1.2em; margin-top: calc(1em - 10px); border: none; }
+.math { font-size: 1rem; }
+.md-toc { min-height: 3.58rem; position: relative; font-size: 0.9rem; border-radius: 10px; }
+.md-toc-content { position: relative; margin-left: 0px; }
+.md-toc-content::after, .md-toc::after { display: none; }
+.md-toc-item { display: block; color: rgb(65, 131, 196); }
+.md-toc-item a { text-decoration: none; }
+.md-toc-inner:hover { text-decoration: underline; }
+.md-toc-inner { display: inline-block; cursor: pointer; }
+.md-toc-h1 .md-toc-inner { margin-left: 0px; font-weight: 700; }
+.md-toc-h2 .md-toc-inner { margin-left: 2em; }
+.md-toc-h3 .md-toc-inner { margin-left: 4em; }
+.md-toc-h4 .md-toc-inner { margin-left: 6em; }
+.md-toc-h5 .md-toc-inner { margin-left: 8em; }
+.md-toc-h6 .md-toc-inner { margin-left: 10em; }
+@media screen and (max-width: 48em) {
+  .md-toc-h3 .md-toc-inner { margin-left: 3.5em; }
+  .md-toc-h4 .md-toc-inner { margin-left: 5em; }
+  .md-toc-h5 .md-toc-inner { margin-left: 6.5em; }
+  .md-toc-h6 .md-toc-inner { margin-left: 8em; }
+}
+a.md-toc-inner { font-size: inherit; font-style: inherit; font-weight: inherit; line-height: inherit; }
+.footnote-line a:not(.reversefootnote) { color: inherit; }
+.reversefootnote { font-family: ui-monospace, sans-serif; }
+.md-attr { display: none; }
+.md-fn-count::after { content: "."; }
+code, pre, samp, tt { font-family: var(--monospace); }
+kbd { margin: 0px 0.1em; padding: 0.1em 0.6em; font-size: 0.8em; color: rgb(36, 39, 41); background: rgb(255, 255, 255); border: 1px solid rgb(173, 179, 185); border-radius: 3px; box-shadow: rgba(12, 13, 14, 0.2) 0px 1px 0px, rgb(255, 255, 255) 0px 0px 0px 2px inset; white-space: nowrap; vertical-align: middle; }
+.md-comment { color: rgb(162, 127, 3); opacity: 0.6; font-family: var(--monospace); }
+code { text-align: left; vertical-align: initial; }
+a.md-print-anchor { white-space: pre !important; border-width: initial !important; border-style: none !important; border-color: initial !important; display: inline-block !important; position: absolute !important; width: 1px !important; right: 0px !important; outline: 0px !important; background: 0px 0px !important; text-decoration: initial !important; text-shadow: initial !important; }
+.os-windows.monocolor-emoji .md-emoji { font-family: "Segoe UI Symbol", sans-serif; }
+.md-diagram-panel > svg { max-width: 100%; }
+[lang="flow"] svg, [lang="mermaid"] svg { max-width: 100%; height: auto; }
+[lang="mermaid"] .node text { font-size: 1rem; }
+table tr th { border-bottom: 0px; }
+video { max-width: 100%; display: block; margin: 0px auto; }
+iframe { max-width: 100%; width: 100%; border: none; }
+.highlight td, .highlight tr { border: 0px; }
+mark { background: rgb(255, 255, 0); color: rgb(0, 0, 0); }
+.md-html-inline .md-plain, .md-html-inline strong, mark .md-inline-math, mark strong { color: inherit; }
+.md-expand mark .md-meta { opacity: 0.3 !important; }
+mark .md-meta { color: rgb(0, 0, 0); }
+@media print {
+  .typora-export h1, .typora-export h2, .typora-export h3, .typora-export h4, .typora-export h5, .typora-export h6 { break-inside: avoid; }
+}
+.md-diagram-panel .messageText { stroke: none !important; }
+.md-diagram-panel .start-state { fill: var(--node-fill); }
+.md-diagram-panel .edgeLabel rect { opacity: 1 !important; }
+.md-fences.md-fences-math { font-size: 1em; }
+.md-fences-advanced:not(.md-focus) { padding: 0px; white-space: nowrap; border: 0px; }
+.md-fences-advanced:not(.md-focus) { background: inherit; }
+.typora-export-show-outline .typora-export-content { max-width: 1440px; margin: auto; display: flex; flex-direction: row; }
+.typora-export-sidebar { width: 300px; font-size: 0.8rem; margin-top: 80px; margin-right: 18px; }
+.typora-export-show-outline #write { --webkit-flex:2; flex: 2 1 0%; }
+.typora-export-sidebar .outline-content { position: fixed; top: 0px; max-height: 100%; overflow: hidden auto; padding-bottom: 30px; padding-top: 60px; width: 300px; }
+@media screen and (max-width: 1024px) {
+  .typora-export-sidebar, .typora-export-sidebar .outline-content { width: 240px; }
+}
+@media screen and (max-width: 800px) {
+  .typora-export-sidebar { display: none; }
+}
+.outline-content li, .outline-content ul { margin-left: 0px; margin-right: 0px; padding-left: 0px; padding-right: 0px; list-style: none; overflow-wrap: anywhere; }
+.outline-content ul { margin-top: 0px; margin-bottom: 0px; }
+.outline-content strong { font-weight: 400; }
+.outline-expander { width: 1rem; height: 1.42857rem; position: relative; display: table-cell; vertical-align: middle; cursor: pointer; padding-left: 4px; }
+.outline-expander::before { content: ""; position: relative; font-family: Ionicons; display: inline-block; font-size: 8px; vertical-align: middle; }
+.outline-item { padding-top: 3px; padding-bottom: 3px; cursor: pointer; }
+.outline-expander:hover::before { content: ""; }
+.outline-h1 > .outline-item { padding-left: 0px; }
+.outline-h2 > .outline-item { padding-left: 1em; }
+.outline-h3 > .outline-item { padding-left: 2em; }
+.outline-h4 > .outline-item { padding-left: 3em; }
+.outline-h5 > .outline-item { padding-left: 4em; }
+.outline-h6 > .outline-item { padding-left: 5em; }
+.outline-label { cursor: pointer; display: table-cell; vertical-align: middle; text-decoration: none; color: inherit; }
+.outline-label:hover { text-decoration: underline; }
+.outline-item:hover { border-color: rgb(245, 245, 245); background-color: var(--item-hover-bg-color); }
+.outline-item:hover { margin-left: -28px; margin-right: -28px; border-left: 28px solid transparent; border-right: 28px solid transparent; }
+.outline-item-single .outline-expander::before, .outline-item-single .outline-expander:hover::before { display: none; }
+.outline-item-open > .outline-item > .outline-expander::before { content: ""; }
+.outline-children { display: none; }
+.info-panel-tab-wrapper { display: none; }
+.outline-item-open > .outline-children { display: block; }
+.typora-export .outline-item { padding-top: 1px; padding-bottom: 1px; }
+.typora-export .outline-item:hover { margin-right: -8px; border-right: 8px solid transparent; }
+.typora-export .outline-expander::before { content: "+"; font-family: inherit; top: -1px; }
+.typora-export .outline-expander:hover::before, .typora-export .outline-item-open > .outline-item > .outline-expander::before { content: "−"; }
+.typora-export-collapse-outline .outline-children { display: none; }
+.typora-export-collapse-outline .outline-item-open > .outline-children, .typora-export-no-collapse-outline .outline-children { display: block; }
+.typora-export-no-collapse-outline .outline-expander::before { content: "" !important; }
+.typora-export-show-outline .outline-item-active > .outline-item .outline-label { font-weight: 700; }
+.md-inline-math-container mjx-container { zoom: 0.95; }
+mjx-container { break-inside: avoid; }
+
+
+@import url('https://fonts.googleapis.com/css2?family=Montagu+Slab:opsz,wght@16..144,100;16..144,300;16..144,500;16..144,700&display=swap');
+
+:root {
+  --side-bar-bg-color: #180018;
+  --control-text-color: #aaa;
+  --active-file-bg-color: #383838;
+  --control-text-hover-color: #ddd;
+  --item-hover-bg-color: #404040;
+  --text-color: #c0c0c0;
+  --blur-text-color: #80808080;
+  --bg-color: rgb(24, 0, 24);
+  --select-text-bg-color: #663f3f !important;
+  --monospace: "IBM Plex Mono", "Fira Code", "微软雅黑", monospace !important;
+  --window-border: 1px solid #404040;
+  --rawblock-edit-panel-bd: #180018;
+  --mermaid-theme: dark;
+  --mermaid-font-family: "IBM Plex Mono", "Fira Code", "微软雅黑", monospace !important;
+  --mermaid-sequence-numbers: off; /* or "on", see https://mermaid-js.github.io/mermaid/#/sequenceDiagram?id=sequencenumbers*/
+  --mermaid-flowchart-curve: basis
+    /* or "basis", see https://github.com/typora/typora-issues/issues/1632*/;
+  --mermaid--gantt-left-padding: 100; /* see https://github.com/typora/typora-issues/issues/1665*/
+  --heading-char-color: #aaa;
+  --meta-content-color: #6794bc;
+  --primary-color: #a7d959;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #42424280 !important;
+}
+
+.menu-item-container a.menu-style-btn {
+  background: #424242;
+}
+
+html {
+  font-size: 20px;
+}
+
+body {
+  font-family: "Montagu Slab", "IBM Plex Sans","Microsoft YaHei", "微软雅黑", "Open Sans", "Clear Sans", "Helvetica Neue",
+    Helvetica, Arial, sans-serif;
+  color: aqua;
+  font-weight: 100;
+  background-color: var(--bg-color);
+  line-height: 1.75;
+  scroll-behavior: smooth;
+}
+
+#typora-quick-open {
+  border: none !important;
+  background-color: #180018 !important;
+}
+
+#write {
+  max-width: 860px;
+  margin: 0 auto;
+  padding: 30px;
+  padding-bottom: 100px;
+}
+#write > ul:first-child,
+#write > ol:first-child {
+  margin-top: 30px;
+}
+
+#recent-file-panel tbody tr:nth-child(2n-1) {
+  background-color: #242424;
+}
+
+/*table,
+input {
+  border: 1px solid #aaa !important;
+}*/
+
+#write a {
+  color: #a7d959;
+  text-decoration: none !important;
+  border-bottom: 1px solid #a7d959;
+}
+
+#write a:hover {
+  color: fuchsia;
+  text-decoration: none !important;
+  border-bottom: 1px solid #a7d959;
+  font-weight: 300;
+}
+
+::selection {
+  background: #2b3400;
+  color: yellow;
+}
+
+.md-comment {
+  color: var(--text-color);
+  opacity: 0.5;
+  font-family: var(--monospace);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  position: relative;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  font-weight: bold;
+  line-height: 1.4;
+  cursor: text;
+}
+h1:hover a.anchor,
+h2:hover a.anchor,
+h3:hover a.anchor,
+h4:hover a.anchor,
+h5:hover a.anchor,
+h6:hover a.anchor {
+  text-decoration: none;
+}
+h1 tt,
+h1 code {
+  font-size: inherit;
+}
+h2 tt,
+h2 code {
+  font-size: inherit;
+}
+h3 tt,
+h3 code {
+  font-size: inherit;
+}
+h4 tt,
+h4 code {
+  font-size: inherit;
+}
+h5 tt,
+h5 code {
+  font-size: inherit;
+}
+h6 tt,
+h6 code {
+  font-size: inherit;
+}
+h1 {
+  padding-bottom: 0.3em;
+  font-size: 2.25em;
+  line-height: 1.2;
+  border-bottom: 1px solid #202020;
+}
+h2 {
+  padding-bottom: 0.3em;
+  font-size: 1.75em;
+  line-height: 1.225;
+  border-bottom: 1px solid #202020;
+}
+h3 {
+  font-size: 1.5em;
+  line-height: 1.43;
+}
+h4 {
+  font-size: 1.25em;
+}
+h5 {
+  font-size: 1em;
+}
+h6 {
+  font-size: 1em;
+  color: #777;
+}
+p,
+blockquote,
+ul,
+ol,
+dl,
+table {
+  margin: 0.8em 0;
+  text-align: left;
+}
+li > ol,
+li > ul {
+  margin: 0 0;
+}
+hr {
+  height: 2px;
+  padding: 0;
+  margin: 32px 0;
+  background-color: #180018;
+  border: 0 none;
+  overflow: hidden;
+  box-sizing: content-box;
+}
+
+li p.first {
+  display: inline-block;
+}
+ul,
+ol {
+  padding-left: 30px;
+}
+ul:first-child,
+ol:first-child {
+  margin-top: 0;
+}
+ul:last-child,
+ol:last-child {
+  margin-bottom: 0;
+}
+blockquote {
+  border-left: 4px solid #aaaaaa80;
+  margin-left: 2px;
+  padding: 0 15px;
+  color: #aaa;
+}
+blockquote blockquote {
+  padding-right: 0;
+}
+table {
+  padding: 0;
+  word-break: initial;
+  background-color: var(--bg-color);
+}
+table tr {
+  border-top: 1px solid #180018;
+  margin: 0;
+  padding: 0;
+}
+table tr:nth-child(2n),
+thead {
+  background-color: #180018;
+}
+table tr th {
+  font-weight: bold;
+  border: 1px solid #383838;
+  border-bottom: 0;
+  text-align: left;
+  margin: 0;
+  padding: 6px 13px;
+}
+table tr td {
+  border: 1px solid #383838;
+  text-align: left;
+  margin: 0;
+  padding: 6px 13px;
+}
+table tr th:first-child,
+table tr td:first-child {
+  margin-top: 0;
+}
+table tr th:last-child,
+table tr td:last-child {
+  margin-bottom: 0;
+}
+
+strong,
+b {
+  color: #f0f0f0;
+}
+
+.CodeMirror-lines {
+  padding-left: 4px;
+}
+
+.code-tooltip {
+  box-shadow: 0 1px 1px 0 rgba(26, 26, 26, 0.3);
+  border-top: 1px solid #202020;
+}
+
+.md-fences,
+code,
+tt {
+  border: 1px solid #424242;
+  background-color: #42424280;
+  border-radius: 3px;
+  padding: 2px 4px 1px 4px;
+  font-size: 0.85em;
+}
+
+.md-fences {
+  margin-bottom: 15px;
+  margin-top: 15px;
+  padding: 0.2em 1em;
+  padding-top: 8px;
+  padding-bottom: 6px;
+}
+
+.md-task-list-item > input {
+  margin-left: -1.3em;
+}
+
+@media print {
+  html {
+    font-size: 13px;
+  }
+  table,
+  pre {
+    page-break-inside: avoid;
+  }
+  pre {
+    word-wrap: break-word;
+  }
+}
+
+.md-fences {
+  background-color: #180018;
+}
+#write pre.md-meta-block {
+  padding: 1rem;
+  font-size: 85%;
+  line-height: 1.45;
+  background-color: #180018;
+  border: 0;
+  border-radius: 3px;
+  color: #aaa;
+  margin-top: 0 !important;
+}
+
+.mathjax-block > .code-tooltip {
+  bottom: 0.375rem;
+}
+
+.md-mathjax-midline {
+  background: #fafafa;
+}
+
+#write > h3.md-focus:before {
+  left: -1.5625rem;
+  top: 0.375rem;
+}
+#write > h4.md-focus:before {
+  left: -1.5625rem;
+  top: 0.285714286rem;
+}
+#write > h5.md-focus:before {
+  left: -1.5625rem;
+  top: 0.285714286rem;
+}
+#write > h6.md-focus:before {
+  left: -1.5625rem;
+  top: 0.285714286rem;
+}
+.md-image > .md-meta {
+  border-radius: 3px;
+  padding: 2px 0px 0px 4px;
+  font-size: 0.9em;
+  color: inherit;
+}
+
+.md-tag {
+  color: #a7a7a7;
+  opacity: .5;
+}
+
+.md-toc {
+  margin-top: 20px;
+  padding-bottom: 20px;
+}
+
+.sidebar-tabs {
+  border-bottom: none;
+}
+
+#typora-quick-open {
+  border: 1px solid #dddddd;
+  background-color: #f8f8f8;
+}
+
+#typora-quick-open-item {
+  background-color: #fafafa;
+  border-color: #fefefe #e5e5e5 #e5e5e5 #eee;
+  border-style: solid;
+  border-width: 1px;
+}
+
+footer.ty-footer {
+  height: 25px !important;
+  border-top: 1px solid #292a2d;
+  background: #292a2d !important;
+}
+
+.footer-item {
+  line-height: 25px !important;
+}
+
+#outline-btn {
+  margin-top: -2px !important;
+}
+
+.typora-sourceview-on #toggle-sourceview-btn {
+  background: #484848 !important;
+}
+
+.sidebar-content-content {
+  font-family: "IBM Plex Sans","Microsoft YaHei", "微软雅黑", "Open Sans", "Clear Sans", "Helvetica Neue",
+    Helvetica, Arial, sans-serif !important;
+}
+
+.outline-content {
+  padding: 3px 10px !important;
+  text-align: left !important;
+}
+
+.outline-item.outline-item-active {
+  margin-left: -28px;
+  margin-right: -28px;
+  border-left: 28px solid transparent;
+  border-right: 28px solid transparent;
+  background-color: #424242;
+  background-color: #424242;
+  border-color: #424242;
+  background-color: #424242;
+}
+
+.sidebar-footer {
+  height: 25px;
+  border-top: 1px solid #292a2d;
+  background: #292a2d;
+}
+
+.sidebar-footer-item {
+  line-height: 25px;
+  padding-top: 0px !important;
+}
+
+.file-node-icon {
+  margin-right: 6px;
+}
+
+.file-node-open-state {
+  margin-right: 6px;
+}
+
+.dropdown-menu {
+  background-color: #2a2a2a !important;
+}
+
+.dropdown-menu .divider {
+  border-color: #424242 !important;
+}
+
+/* focus mode */
+.on-focus-mode blockquote {
+  border-left-color: rgba(85, 85, 85, 0.12);
+}
+
+.on-focus-mode .md-end-block:not(.md-focus):not(.md-focus-container) img {
+  opacity: 20%;
+}
+.on-focus-mode .task-list-item:not(.md-focus-container) > input {
+  opacity: 20%;
+}
+.on-focus-mode
+  .md-fences.md-focus
+  .CodeMirror-code
+  > *:not(.CodeMirror-activeline)
+  *,
+.on-focus-mode .CodeMirror.cm-s-inner:not(.CodeMirror-focused) * {
+  color: #80808080 !important;
+}
+.on-focus-mode li[cid]:not(.md-focus-container) {
+  color: #80808080 !important;
+}
+/*.on-focus-mode #typora-source .CodeMirror-code>*:not(.CodeMirror-activeline) * {
+  color: #80808080!important;
+}*/
+.on-focus-mode .md-focus,
+.on-focus-mode .md-focus-container {
+  color: #d0d0d0;
+}
+.on-focus-mode .md-end-block:not(.md-focus):not(.md-focus-container) code,
+.on-focus-mode .md-end-block:not(.md-focus):not(.md-focus-container) tt {
+  border: 1px solid #180018;
+  background-color: #180018;
+}
+
+/* focus mode end */
+
+header,
+.context-menu,
+.megamenu-content,
+footer {
+  font-family: "IBM Plex Sans","Microsoft YaHei", "微软雅黑", "Open Sans", "Clear Sans", "Helvetica Neue",
+    Helvetica, Arial, sans-serif;
+}
+
+.megamenu-content {
+  background: #242424 !important;
+}
+
+.megamenu-opened header {
+  background-color: #242424;
+  background-image: none;
+}
+
+.file-node-content:hover .file-node-icon,
+.file-node-content:hover .file-node-open-state {
+  visibility: visible;
+}
+
+span.file-list-item-file-name-part {
+  color: #f0f0f0;
+}
+
+.file-list-item-summary {
+    height: 3rem;
+    overflow: hidden;
+    font-size: 13px;
+    line-height: 16px;
+    opacity: .7 !important;
+}
+
+.mac-seamless-mode #typora-sidebar {
+  background-color: #fafafa;
+  background-color: var(--side-bar-bg-color);
+}
+
+.md-lang {
+  color: #b4654d;
+}
+
+.html-for-mac .context-menu {
+  --item-hover-bg-color: #e6f0fe;
+}
+
+#md-notification .btn {
+  border: 0;
+}
+
+.dropdown-menu .divider {
+  border-color: #e5e5e5;
+}
+
+/* code mirror */
+
+.CodeMirror-gutter-filler,
+.CodeMirror-scrollbar-filler {
+  background-color: #180018;
+}
+.CodeMirror-gutters {
+  border-right: 1px solid #484848;
+}
+.CodeMirror-linenumber {
+  color: #808080;
+}
+.cm-s-inner .cm-keyword {
+  color: rgb(189, 97, 201);
+}
+.cm-s-inner .cm-atom,
+.cm-s-inner.cm-atom {
+  color: rgb(131, 115, 236);
+}
+.cm-s-inner .cm-number {
+  color: rgb(73, 190, 143);
+}
+.cm-s-inner .cm-def {
+  color: rgb(123, 123, 255);
+}
+.cm-s-inner .cm-variable {
+  color: rgb(199, 199, 199);
+}
+.cm-s-inner .cm-variable-2 {
+  color: rgb(131, 166, 201);
+}
+.cm-s-inner .cm-variable-3 {
+  color: rgb(153, 197, 181);
+}
+.cm-s-inner .cm-string {
+  color: rgb(194, 104, 104);
+}
+.cm-s-inner .cm-property {
+  color: rgb(199, 199, 199);
+}
+.cm-s-inner .cm-operator {
+  color: #b67e7e;
+}
+.cm-s-inner .cm-comment,
+.cm-s-inner.cm-comment {
+  color: rgb(216, 158, 99);
+}
+.cm-s-inner .cm-string-2 {
+  color: rgb(223, 152, 116);
+}
+.cm-s-inner .cm-meta {
+  color: rgb(158, 158, 158);
+}
+.cm-s-inner .cm-qualifier {
+  color: rgb(145, 145, 145);
+}
+.cm-s-inner .cm-builtin {
+  color: rgb(169, 145, 226);
+}
+.cm-s-inner .cm-bracket {
+  color: rgb(214, 214, 166);
+}
+.cm-s-inner .cm-tag {
+  color: rgb(162, 207, 154);
+}
+.cm-s-inner .cm-attribute {
+  color: rgb(169, 169, 216);
+}
+.cm-s-inner .cm-header,
+.cm-s-inner.cm-header {
+  color: rgb(161, 161, 255);
+}
+.cm-s-inner .cm-quote,
+.cm-s-inner.cm-quote {
+  color: rgb(90, 158, 90);
+}
+.cm-s-inner .cm-hr,
+.cm-s-inner.cm-hr {
+  color: rgb(184, 184, 184);
+}
+.cm-s-inner .cm-link,
+.cm-s-inner.cm-link {
+  color: rgb(134, 134, 197);
+}
+.cm-negative {
+  color: rgb(218, 126, 126);
+}
+.cm-positive {
+  color: rgb(118, 189, 118);
+}
+.cm-header,
+.cm-strong {
+  font-weight: 700;
+}
+.cm-del {
+  text-decoration: line-through;
+}
+.cm-em {
+  font-style: italic;
+}
+.cm-link {
+  text-decoration: underline;
+}
+.cm-error {
+  color: rgb(255, 75, 75);
+}
+.cm-invalidchar {
+  color: rgb(255, 75, 75);
+}
+.cm-constant {
+  color: #50a5e2;
+}
+.cm-defined {
+  color: #eccb66;
+}
+div.CodeMirror span.CodeMirror-matchingbracket {
+  color: rgb(139, 230, 139);
+}
+div.CodeMirror span.CodeMirror-nonmatchingbracket {
+  color: rgb(241, 99, 99);
+}
+.cm-searching {
+  background: #ffa;
+  background: rgba(255, 255, 0, 0.4);
+}
+.cm-tw-syntaxerror {
+  color: rgb(199, 199, 199);
+  background-color: #900;
+}
+.CodeMirror div.CodeMirror-cursor {
+  border-left: 3px solid #e4629a;
+}
+#typora-source .CodeMirror-gutter-wrapper {
+  font-family: var(--monospace) !important;
+}
+.cm-s-typora-default .CodeMirror-activeline-background {
+  left: -99999px;
+  right: -99999px;
+  background: #80808020;
+}
+.cm-s-typora-default .cm-code, .cm-s-typora-default .cm-comment {
+  color: #8997d4;
+  font-family: monospace;
+  font-family: var(--monospace);
+}
+.cm-s-typora-default .cm-string {
+  color: #84a97e;
+}
+.cm-s-typora-default .cm-tag {
+  color: #c36260;
+}
+
+/* unibody */
+
+.megamenu-opened header {
+  background-color: var(--bg-color) !important;
+}
+
+.megamenu-menu {
+  background-color: var(--side-bar-bg-color) !important;
+}
+
+#megamenu-back-btn {
+  border-color: transparent;
+  color: #a94442;
+}
+
+.megamenu-content {
+  background: var(--bg-color) !important;
+}
+
+.long-btn {
+  border: 1px solid #9292928f;
+}
+
+table/*,
+input */{
+  border: 1px solid #9292928f !important;
+}
+
+#recent-file-panel-action-btn {
+  background-color: var(--bg-color) !important;
+  border: 1px solid #9292928f !important;
+}
+
+#top-titlebar .toolbar-icon.btn.hover, #top-titlebar .toolbar-icon.btn:hover {
+  background-color: #180018;
+}
+
+#top-titlebar {
+  font-family: var(--monospace);
+}
+
+hr {
+  /* Common to all hr's */
+  border-top: 2pt solid transparent;
+  border-bottom: 2pt solid transparent;
+  border-left-style: solid;
+  border-left-color: yellow;
+
+  /* Top-level hr (aka page delineator) */
+  border-left-width: 16cm;
+  margin-top: 18pt;
+  margin-bottom: 36pt;
+}
+
+i,
+  em {
+  color: yellow;
+  font-weight: 300;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+b,
+strong {
+  color: #05f35e;
+  font-weight: 700;
+}
+
+strong {
+  font-weight: 500;
+}
+
+
+
+</style><title>index</title>
+</head>
+<body class='typora-export os-windows'><div class='typora-export-content'>
+<div id='write'  class=''><p><img src="./assets/s1.webp" referrerpolicy="no-referrer" alt="s1"></p><hr /><iframe width="640" height="360" scrolling="no" frameborder="0" style="border: none;" src="https://www.bitchute.com/embed/nMzyGSKJi7RD/"></iframe><hr /><p><a href='https://archive.org/details/destructionofjer00holf'><span>The destruction of Jerusalem, an absolute and irresistible proof of the divine origin of Christianity: including a narrative of the calamities which befell the Jews, so far as they tend to verify Our Lord&#39;s predictions relative to that event. With a brief description of the city and temple</span></a><span>.</span></p><hr /><p><img src="./assets/s2.webp" referrerpolicy="no-referrer" alt="s2"></p><ul><li><p><span>AND Jesus went out, and departed from the temple: and his disciples came to </span><em><span>him</span></em><span> for to shew him the buildings of the temple.</span></p></li><li><p><span>2 And Jesus said unto them, See ye not all these things? verily I say unto you, There shall not be left here one stone upon another, that shall not be thrown down.</span></p></li><li><p><span>3 And as he sat upon the mount of Olives, the disciples came unto him privately, saying, Tell us, when shall these things be? and what </span><em><span>shall</span></em><span> </span><em><span>be</span></em><span> the sign of thy coming, and of the end of the world?</span></p></li><li><p><span>4 And Jesus answered and said unto them, Take heed that no man deceive you.</span></p></li><li><p><span>5 For many shall come in my name, saying, I am Christ; and shall deceive many.</span></p></li><li><p><span>6 And ye shall hear of wars and rumours of wars: see that ye be not troubled: for all </span><em><span>these</span></em><span> </span><em><span>things</span></em><span> must come to pass, but the end is not yet.</span></p></li><li><p><span>7 For nation shall rise against nation, and kingdom against kingdom: and there shall be famines, and pestilences, and earthquakes, in divers places.</span></p></li><li><p><span>8 All these </span><em><span>are</span></em><span> the beginning of sorrows.</span></p></li><li><p><span>9 Then shall they deliver you up to be afflicted, and shall kill you: and ye shall be hated of all nations for my name’s sake.</span></p></li><li><p><span>10 And then shall many be offended, and shall betray one another, and shall hate one another.</span></p></li><li><p><span>11 And many false prophets shall rise, and shall deceive many.</span></p></li><li><p><span>12 And because iniquity shall abound, the love of many shall wax cold.</span></p></li><li><p><span>13 But he that shall endure unto the end, the same shall be saved.</span></p></li><li><p><span>14 And this gospel of the kingdom shall be preached in all the world for a witness unto all nations; and then shall the end come.</span></p></li><li><p><span>15 When ye therefore shall see the abomination of desolation, spoken of by Daniel the prophet, stand in the holy place, (whoso readeth, let him understand:)</span></p></li><li><p><span>16 Then let them which be in Judæa flee into the mountains:</span></p></li><li><p><span>17 Let him which is on the housetop not come down to take any thing out of his house:</span></p></li><li><p><span>18 Neither let him which is in the field return back to take his clothes.</span></p></li><li><p><span>19 And woe unto them that are with child, and to them that give suck in those days!</span></p></li><li><p><span>20 But pray ye that your flight be not in the winter, neither on the sabbath day:</span></p></li><li><p><span>21 For then shall be great tribulation, such as was not since the beginning of the world to this time, no, nor ever shall be.</span></p></li><li><p><span>22 And except those days should be shortened, there should no flesh be saved: but for the elect’s sake those days shall be shortened.</span></p></li><li><p><span>23 Then if any man shall say unto you, Lo, here </span><em><span>is</span></em><span> Christ, or there; believe </span><em><span>it</span></em><span> not.</span></p></li><li><p><span>24 For there shall arise false Christs, and false prophets, and shall shew great signs and wonders; insomuch that, if </span><em><span>it</span></em><span> </span><em><span>were</span></em><span> possible, they shall deceive the very elect.</span></p></li><li><p><span>25 Behold, I have told you before.</span></p></li><li><p><span>26 Wherefore if they shall say unto you, Behold, he is in the desert; go not forth: behold, </span><em><span>he</span></em><span> </span><em><span>is</span></em><span> in the secret chambers; believe </span><em><span>it</span></em><span> not.</span></p></li><li><p><span>27 For as the lightning cometh out of the east, and shineth even unto the west; so shall also the coming of the Son of man be.</span></p></li><li><p><span>28 For wheresoever the carcase is, there will the eagles be gathered together.</span></p></li><li><p><span>29 Immediately after the tribulation of those days shall the sun be darkened, and the moon shall not give her light, and the stars shall fall from heaven, and the powers of the heavens shall be shaken:</span></p></li><li><p><span>30 And then shall appear the sign of the Son of man in heaven: and then shall all the tribes of the earth mourn, and they shall see the Son of man coming in the clouds of heaven with power and great glory.</span></p></li><li><p><span>31 And he shall send his angels with a great sound of a trumpet, and they shall gather together his elect from the four winds, from one end of heaven to the other.</span></p></li><li><p><span>32 Now learn a parable of the fig tree; When his branch is yet tender, and putteth forth leaves, ye know that summer </span><em><span>is</span></em><span> nigh:</span></p></li><li><p><span>33 So likewise ye, when ye shall see all these things, know that it is near, </span><em><span>even</span></em><span> at the doors.</span></p></li><li><p><span>34 Verily I say unto you, This generation shall not pass, till all these things be fulfilled.</span></p></li><li><p><span>35 Heaven and earth shall pass away, but my words shall not pass away.</span></p></li><li><p><span>36 But of that day and hour knoweth no </span><em><span>man</span></em><span>, no, not the angels of heaven, but my Father only.</span></p></li><li><p><span>37 But as the days of Noe </span><em><span>were</span></em><span>, so shall also the coming of the Son of man be.</span></p></li><li><p><span>38 For as in the days that were before the flood they were eating and drinking, marrying and giving in marriage, until the day that Noe entered into the ark,</span></p></li><li><p><span>39 And knew not until the flood came, and took them all away; so shall also the coming of the Son of man be.</span></p></li><li><p><span>40 Then shall two be in the field; the one shall be taken, and the other left.</span></p></li><li><p><span>41 Two </span><em><span>women</span></em><span> </span><em><span>shall</span></em><span> </span><em><span>be</span></em><span> grinding at the mill; the one shall be taken, and the other left.</span></p></li><li><p><span>42 Watch therefore: for ye know not what hour your Lord doth come.</span></p></li><li><p><span>43 But know this, that if the goodman of the house had known in what watch the thief would come, he would have watched, and would not have suffered his house to be broken up.</span></p></li><li><p><span>44 Therefore be ye also ready: for in such an hour as ye think not the Son of man cometh.</span></p></li><li><p><span>45 Who then is a faithful and wise servant, whom his lord hath made ruler over his household, to give them meat in due season?</span></p></li><li><p><span>46 Blessed </span><em><span>is</span></em><span> that servant, whom his lord when he cometh shall find so doing.</span></p></li><li><p><span>47 Verily I say unto you, That he shall make him ruler over all his goods.</span></p></li><li><p><span>48 But and if that evil servant shall say in his heart, My lord delayeth his coming;</span></p></li><li><p><span>49 And shall begin to smite </span><em><span>his</span></em><span> fellowservants, and to eat and drink with the drunken;</span></p></li><li><p><span>50 The lord of that servant shall come in a day when he looketh not for </span><em><span>him</span></em><span>, and in an hour that he is not aware of,</span></p></li><li><p><span>51 And shall cut him asunder, and appoint </span><em><span>him</span></em><span> his portion with the hypocrites: there shall be weeping and gnashing of teeth.</span></p></li></ul><hr /><p><img src="./assets/s3.webp" referrerpolicy="no-referrer" alt="s3"></p><p><span>AND he looked up, and saw the rich men casting their gifts into the treasury.</span></p><p><span>2 And he saw also a certain poor widow casting in thither two mites.</span></p><p><span>3 And he said, Of a truth I say unto you, that this poor widow hath cast in more than they all:</span></p><p><span>4 For all these have of their abundance cast in unto the offerings of God: but she of her penury hath cast in all the living that she had.</span></p><p><span>5 And as some spake of the temple, how it was adorned with goodly stones and gifts, he said,</span></p><p><span>6 </span><em><span>As</span></em><span> </span><em><span>for</span></em><span> these things which ye behold, the days will come, in the which there shall not be left one stone upon another, that shall not be thrown down.</span></p><p><span>7 And they asked him, saying, Master, but when shall these things be? and what sign </span><em><span>will</span></em><span> </span><em><span>there</span></em><span> </span><em><span>be</span></em><span> when these things shall come to pass?</span></p><p><span>8 And he said, Take heed that ye be not deceived: for many shall come in my name, saying, I am </span><em><span>Christ;</span></em><span> and the time draweth near: go ye not therefore after them.</span></p><p><span>9 But when ye shall hear of wars and commotions, be not terrified: for these things must first come to pass; but the end </span><em><span>is</span></em><span> not by and by.</span></p><p><span>10 Then said he unto them, Nation shall rise against nation, and kingdom against kingdom:</span></p><p><span>11 And great earthquakes shall be in divers places, and famines, and pestilences; and fearful sights and great signs shall there be from heaven.</span></p><p><span>12 But before all these, they shall lay their hands on you, and persecute </span><em><span>you</span></em><span>, delivering </span><em><span>you</span></em><span> up to the synagogues, and into prisons, being brought before kings and rulers for my name’s sake.</span></p><p><span>13 And it shall turn to you for a testimony.</span></p><p><span>14 Settle </span><em><span>it</span></em><span> therefore in your hearts, not to meditate before what ye shall answer:</span></p><p><span>15 For I will give you a mouth and wisdom, which all your adversaries shall not be able to gainsay nor resist.</span></p><p><span>16 And ye shall be betrayed both by parents, and brethren, and kinsfolks, and friends; and </span><em><span>some</span></em><span> of you shall they cause to be put to death.</span></p><p><span>17 And ye shall be hated of all </span><em><span>men</span></em><span> for my name’s sake.</span></p><p><span>18 But there shall not an hair of your head perish.</span></p><p><span>19 In your patience possess ye your souls.</span></p><p><span>20 And when ye shall see Jerusalem compassed with armies, then know that the desolation thereof is nigh.</span></p><p><span>21 Then let them which are in Judæa flee to the mountains; and let them which are in the midst of it depart out; and let not them that are in the countries enter thereinto.</span></p><p><span>22 For these be the days of vengeance, that all things which are written may be fulfilled.</span></p><p><span>23 But woe unto them that are with child, and to them that give suck, in those days! for there shall be great distress in the land, and wrath upon this people.</span></p><p><span>24 And they shall fall by the edge of the sword, and shall be led away captive into all nations: and Jerusalem shall be trodden down of the Gentiles, until the times of the Gentiles be fulfilled.</span></p><p><span>25 And there shall be signs in the sun, and in the moon, and in the stars; and upon the earth distress of nations, with perplexity; the sea and the waves roaring;</span></p><p><span>26 Men’s hearts failing them for fear, and for looking after those things which are coming on the earth: for the powers of heaven shall be shaken.</span></p><p><span>27 And then shall they see the Son of man coming in a cloud with power and great glory.</span></p><p><span>28 And when these things begin to come to pass, then look up, and lift up your heads; for your redemption draweth nigh.</span></p><p><span>29 And he spake to them a parable; Behold the fig tree, and all the trees;</span></p><p><span>30 When they now shoot forth, ye see and know of your own selves that summer is now nigh at hand.</span></p><p><span>31 So likewise ye, when ye see these things come to pass, know ye that the kingdom of God is nigh at hand.</span></p><p><span>32 Verily I say unto you, This generation shall not pass away, till all be fulfilled.</span></p><p><span>33 Heaven and earth shall pass away: but my words shall not pass away.</span></p><p><span>34 And take heed to yourselves, lest at any time your hearts be overcharged with surfeiting, and drunkenness, and cares of this life, and </span><em><span>so</span></em><span> that day come upon you unawares.</span></p><p><span>35 For as a snare shall it come on all them that dwell on the face of the whole earth.</span></p><p><span>36 Watch ye therefore, and pray always, that ye may be accounted worthy to escape all these things that shall come to pass, and to stand before the Son of man.</span></p><p><span>37 And in the day time he was teaching in the temple; and at night he went out, and abode in the mount that is called </span><em><span>the</span></em><span> </span><em><span>mount</span></em><span> of Olives.</span></p><p><span>38 And all the people came early in the morning to him in the temple, for to hear him.</span></p><hr /><p><img src="./assets/s4.webp" referrerpolicy="no-referrer" alt="s4"></p><p><span>AND as he went out of the temple, one of his disciples saith unto him, Master, see what manner of stones and what buildings </span><em><span>are</span></em><span> </span><em><span>here!</span></em></p><p><span>2 And Jesus answering said unto him, Seest thou these great buildings? there shall not be left one stone upon another, that shall not be thrown down.</span></p><p><span>3 And as he sat upon the mount of Olives over against the temple, Peter and James and John and Andrew asked him privately,</span></p><p><span>4 Tell us, when shall these things be? and what </span><em><span>shall</span></em><span> </span><em><span>be</span></em><span> the sign when all these things shall be fulfilled?</span></p><p><span>5 And Jesus answering them began to say, Take heed lest any </span><em><span>man</span></em><span> deceive you:</span></p><p><span>6 For many shall come in my name, saying, I am </span><em><span>Christ;</span></em><span> and shall deceive many.</span></p><p><span>7 And when ye shall hear of wars and rumours of wars, be ye not troubled: for </span><em><span>such</span></em><span> </span><em><span>things</span></em><span> must needs be; but the end </span><em><span>shall</span></em><span> not </span><em><span>be</span></em><span> yet.</span></p><p><span>8 For nation shall rise against nation, and kingdom against kingdom: and there shall be earthquakes in divers places, and there shall be famines and troubles: these </span><em><span>are</span></em><span> the beginnings of sorrows.</span></p><p><span>9 But take heed to yourselves: for they shall deliver you up to councils; and in the synagogues ye shall be beaten: and ye shall be brought before rulers and kings for my sake, for a testimony against them.</span></p><p><span>10 And the gospel must first be published among all nations.</span></p><p><span>11 But when they shall lead </span><em><span>you</span></em><span>, and deliver you up, take no thought beforehand what ye shall speak, neither do ye premeditate: but whatsoever shall be given you in that hour, that speak ye: for it is not ye that speak, but the Holy Ghost.</span></p><p><span>12 Now the brother shall betray the brother to death, and the father the son; and children shall rise up against </span><em><span>their</span></em><span> parents, and shall cause them to be put to death.</span></p><p><span>13 And ye shall be hated of all </span><em><span>men</span></em><span> for my name’s sake: but he that shall endure unto the end, the same shall be saved.</span></p><p><span>14 But when ye shall see the abomination of desolation, spoken of by Daniel the prophet, standing where it ought not, (let him that readeth understand,) then let them that be in Judæa flee to the mountains:</span></p><p><span>15 And let him that is on the housetop not go down into the house, neither enter </span><em><span>therein</span></em><span>, to take any thing out of his house:</span></p><p><span>16 And let him that is in the field not turn back again for to take up his garment.</span></p><p><span>17 But woe to them that are with child, and to them that give suck in those days!</span></p><p><span>18 And pray ye that your flight be not in the winter.</span></p><p><span>19 For </span><em><span>in</span></em><span> those days shall be affliction, such as was not from the beginning of the creation which God created unto this time, neither shall be.</span></p><p><span>20 And except that the Lord had shortened those days, no flesh should be saved: but for the elect’s sake, whom he hath chosen, he hath shortened the days.</span></p><p><span>21 And then if any man shall say to you, Lo, here </span><em><span>is</span></em><span> Christ; or, lo, </span><em><span>he</span></em><span> </span><em><span>is</span></em><span> there; believe </span><em><span>him</span></em><span> not:</span></p><p><span>22 For false Christs and false prophets shall rise, and shall shew signs and wonders, to seduce, if </span><em><span>it</span></em><span> </span><em><span>were</span></em><span> possible, even the elect.</span></p><p><span>23 But take ye heed: behold, I have foretold you all things.</span></p><p><span>24 But in those days, after that tribulation, the sun shall be darkened, and the moon shall not give her light,</span></p><p><span>25 And the stars of heaven shall fall, and the powers that are in heaven shall be shaken.</span></p><p><span>26 And then shall they see the Son of man coming in the clouds with great power and glory.</span></p><p><span>27 And then shall he send his angels, and shall gather together his elect from the four winds, from the uttermost part of the earth to the uttermost part of heaven.</span></p><p><span>28 Now learn a parable of the fig tree; When her branch is yet tender, and putteth forth leaves, ye know that summer is near:</span></p><p><span>29 So ye in like manner, when ye shall see these things come to pass, know that it is nigh, </span><em><span>even</span></em><span> at the doors.</span></p><p><span>30 Verily I say unto you, that this generation shall not pass, till all these things be done.</span></p><p><span>31 Heaven and earth shall pass away: but my words shall not pass away.</span></p><p><span>32 But of that day and </span><em><span>that</span></em><span> hour knoweth no man, no, not the angels which are in heaven, neither the Son, but the Father.</span></p><p><span>33 Take ye heed, watch and pray: for ye know not when the time is.</span></p><p><span>34 </span><em><span>For</span></em><span> </span><em><span>the</span></em><span> </span><em><span>Son</span></em><span> </span><em><span>of</span></em><span> </span><em><span>man</span></em><span> </span><em><span>is</span></em><span> as a man taking a far journey, who left his house, and gave authority to his servants, and to every man his work, and commanded the porter to watch.</span></p><p><span>35 Watch ye therefore: for ye know not when the master of the house cometh, at even, or at midnight, or at the cockcrowing, or in the morning:</span></p><p><span>36 Lest coming suddenly he find you sleeping.</span></p><p><span>37 And what I say unto you I say unto all, Watch.</span></p><hr /><p>&nbsp;</p></div></div>
+</body>
+</html>
