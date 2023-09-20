@@ -2,233 +2,256 @@
 
 ---
 
-<iframe width="640" height="360" scrolling="no" frameborder="0" style="border: none;" src="https://www.bitchute.com/embed/nMzyGSKJi7RD/"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1f8uTVA_47A?si=E1ZSY-D2xnHC6v0K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+![s11](./assets/s11.webp)
+
+**14**¶ And Jesus returned in the power of the Spirit into Galilee: and there went out a fame of him through all the region round about.
+**15**And he taught in their synagogues, being glorified of all.
+
+**16**¶ And he came to Nazareth, where he had been brought up: and, as his custom was, he went into the synagogue on the sabbath day, and stood up for to read.
+**17**And there was delivered unto him the book of the prophet Esaias. And when he had opened the book, he found the place where it was written,
+**18**The Spirit of the Lord *is* upon me, because he hath anointed me to preach the gospel to the poor; he hath sent me to heal the brokenhearted, to preach deliverance to the captives, and recovering of sight to the blind, to set at liberty them that are bruised,
+**19**To preach the acceptable year of the Lord.
+**20**And he closed the book, and he gave *it* again to the minister, and sat down. And the eyes of all them that were in the synagogue were fastened on him.
+**21**And he began to say unto them, This day is this scripture fulfilled in your ears.
 
 ---
 
-[The destruction of Jerusalem, an absolute and irresistible proof of the divine origin of Christianity: including a narrative of the calamities which befell the Jews, so far as they tend to verify Our Lord's predictions relative to that event. With a brief description of the city and temple](https://archive.org/details/destructionofjer00holf).
+![s12](./assets/s12.webp)
+
+**1**The Spirit of the Lord GOD *is* upon me; because the LORD hath anointed me to preach good tidings unto the meek; he hath sent me to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to *them* *that* *are* bound;
+**2**<font color="#ffff00">To proclaim the acceptable year of the LORD</font>, and the <font color="#ff0000">day of vengeance of our God; to comfort all that mourn</font>;
+**3**To appoint unto them that mourn in Zion, to give unto them beauty for ashes, the oil of joy for mourning, the garment of praise for the spirit of heaviness; that they might be called trees of righteousness, the planting of the LORD, that he might be glorified.
 
 ---
 
-![s2](./assets/s2.webp)
+![s13](./assets/s13.webp)
 
-<iframe src="https://player.rss.com/good-old-news/1119542" style="width: 100%" title="Good Old News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen><a href="https://rss.com/podcasts/good-old-news/1119542/">Matthew 24 | RSS.com</a></iframe>
+**Category:** General Epistles
 
-
-
-- AND Jesus went out, and departed from the temple: and his disciples came to *him* for to shew him the buildings of the temple.
-- 2 And Jesus said unto them, See ye not all these things? verily I say unto you, There shall not be left here one stone upon another, that shall not be thrown down.
-- 3 And as he sat upon the mount of Olives, the disciples came unto him privately, saying, Tell us, when shall these things be? and what *shall* *be* the sign of thy coming, and of the end of the world?
-- 4 And Jesus answered and said unto them, Take heed that no man deceive you.
-- 5 For many shall come in my name, saying, I am Christ; and shall deceive many.
-- 6 And ye shall hear of wars and rumours of wars: see that ye be not troubled: for all *these* *things* must come to pass, but the end is not yet.
-- 7 For nation shall rise against nation, and kingdom against kingdom: and there shall be famines, and pestilences, and earthquakes, in divers places.
-- 8 All these *are* the beginning of sorrows.
-- 9 Then shall they deliver you up to be afflicted, and shall kill you: and ye shall be hated of all nations for my name’s sake.
-- 10 And then shall many be offended, and shall betray one another, and shall hate one another.
-- 11 And many false prophets shall rise, and shall deceive many.
-- 12 And because iniquity shall abound, the love of many shall wax cold.
-- 13 But he that shall endure unto the end, the same shall be saved.
-- 14 And this gospel of the kingdom shall be preached in all the world for a witness unto all nations; and then shall the end come.
-- 15 When ye therefore shall see the abomination of desolation, spoken of by Daniel the prophet, stand in the holy place, (whoso readeth, let him understand:)
-- 16 Then let them which be in Judæa flee into the mountains:
-- 17 Let him which is on the housetop not come down to take any thing out of his house:
-- 18 Neither let him which is in the field return back to take his clothes.
-- 19 And woe unto them that are with child, and to them that give suck in those days!
-- 20 But pray ye that your flight be not in the winter, neither on the sabbath day:
-- 21 For then shall be great tribulation, such as was not since the beginning of the world to this time, no, nor ever shall be.
-- 22 And except those days should be shortened, there should no flesh be saved: but for the elect’s sake those days shall be shortened.
-- 23 Then if any man shall say unto you, Lo, here *is* Christ, or there; believe *it* not.
-- 24 For there shall arise false Christs, and false prophets, and shall shew great signs and wonders; insomuch that, if *it* *were* possible, they shall deceive the very elect.
-- 25 Behold, I have told you before.
-- 26 Wherefore if they shall say unto you, Behold, he is in the desert; go not forth: behold, *he* *is* in the secret chambers; believe *it* not.
-- 27 For as the lightning cometh out of the east, and shineth even unto the west; so shall also the coming of the Son of man be.
-- 28 For wheresoever the carcase is, there will the eagles be gathered together.
-- 29 Immediately after the tribulation of those days shall the sun be darkened, and the moon shall not give her light, and the stars shall fall from heaven, and the powers of the heavens shall be shaken:
-- 30 And then shall appear the sign of the Son of man in heaven: and then shall all the tribes of the earth mourn, and they shall see the Son of man coming in the clouds of heaven with power and great glory.
-- 31 And he shall send his angels with a great sound of a trumpet, and they shall gather together his elect from the four winds, from one end of heaven to the other.
-- 32 Now learn a parable of the fig tree; When his branch is yet tender, and putteth forth leaves, ye know that summer *is* nigh:
-- 33 So likewise ye, when ye shall see all these things, know that it is near, *even* at the doors.
-- 34 Verily I say unto you, This generation shall not pass, till all these things be fulfilled.
-- 35 Heaven and earth shall pass away, but my words shall not pass away.
-- 36 But of that day and hour knoweth no *man*, no, not the angels of heaven, but my Father only.
-- 37 But as the days of Noe *were*, so shall also the coming of the Son of man be.
-- 38 For as in the days that were before the flood they were eating and drinking, marrying and giving in marriage, until the day that Noe entered into the ark,
-- 39 And knew not until the flood came, and took them all away; so shall also the coming of the Son of man be.
-- 40 Then shall two be in the field; the one shall be taken, and the other left.
-- 41 Two *women* *shall* *be* grinding at the mill; the one shall be taken, and the other left.
-- 42 Watch therefore: for ye know not what hour your Lord doth come.
-- 43 But know this, that if the goodman of the house had known in what watch the thief would come, he would have watched, and would not have suffered his house to be broken up.
-- 44 Therefore be ye also ready: for in such an hour as ye think not the Son of man cometh.
-- 45 Who then is a faithful and wise servant, whom his lord hath made ruler over his household, to give them meat in due season?
-- 46 Blessed *is* that servant, whom his lord when he cometh shall find so doing.
-- 47 Verily I say unto you, That he shall make him ruler over all his goods.
-- 48 But and if that evil servant shall say in his heart, My lord delayeth his coming;
-- 49 And shall begin to smite *his* fellowservants, and to eat and drink with the drunken;
-- 50 The lord of that servant shall come in a day when he looketh not for *him*, and in an hour that he is not aware of,
-- 51 And shall cut him asunder, and appoint *him* his portion with the hypocrites: there shall be weeping and gnashing of teeth.
+**1**That which was from the beginning, which we have heard, which we have seen with our eyes, which we have looked upon, and our hands have handled, of the Word of life;
+**2**(For the life was manifested, and we have seen *it*, and bear witness, and shew unto you that eternal life, which was with the Father, and was manifested unto us;)
+**3**That which we have seen and heard declare we unto you, that ye also may have fellowship with us: and truly our fellowship *is* with the Father, and with his Son Jesus Christ.
+**4**And these things write we unto you, that your joy may be full.
+**5**This then is the message which we have heard of him, and declare unto you, that God is light, and in him is no darkness at all.
+**6**If we say that we have fellowship with him, and walk in darkness, we lie, and do not the truth:
+**7**But if we walk in the light, as he is in the light, we have fellowship one with another, and the blood of Jesus Christ his Son cleanseth us from all sin.
+**8**If we say that we have no sin, we deceive ourselves, and the truth is not in us.
+**9**If we confess our sins, he is faithful and just to forgive us *our* sins, and to cleanse us from all unrighteousness.
+**10**If we say that we have not sinned, we make him a liar, and his word is not in us.
 
 ---
 
-![s3](./assets/s3.webp)
-
-<iframe src="https://player.rss.com/good-old-news/1119543" style="width: 100%" title="Good Old News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen><a href="https://rss.com/podcasts/good-old-news/1119543/">Luke 21 | RSS.com</a></iframe>
-
-AND he looked up, and saw the rich men casting their gifts into the treasury.
-
-2 And he saw also a certain poor widow casting in thither two mites.
-
-3 And he said, Of a truth I say unto you, that this poor widow hath cast in more than they all:
-
-4 For all these have of their abundance cast in unto the offerings of God: but she of her penury hath cast in all the living that she had.
-
-5 And as some spake of the temple, how it was adorned with goodly stones and gifts, he said,
-
-6 *As* *for* these things which ye behold, the days will come, in the which there shall not be left one stone upon another, that shall not be thrown down.
-
-7 And they asked him, saying, Master, but when shall these things be? and what sign *will* *there* *be* when these things shall come to pass?
-
-8 And he said, Take heed that ye be not deceived: for many shall come in my name, saying, I am *Christ;* and the time draweth near: go ye not therefore after them.
-
-9 But when ye shall hear of wars and commotions, be not terrified: for these things must first come to pass; but the end *is* not by and by.
-
-10 Then said he unto them, Nation shall rise against nation, and kingdom against kingdom:
-
-11 And great earthquakes shall be in divers places, and famines, and pestilences; and fearful sights and great signs shall there be from heaven.
-
-12 But before all these, they shall lay their hands on you, and persecute *you*, delivering *you* up to the synagogues, and into prisons, being brought before kings and rulers for my name’s sake.
-
-13 And it shall turn to you for a testimony.
-
-14 Settle *it* therefore in your hearts, not to meditate before what ye shall answer:
-
-15 For I will give you a mouth and wisdom, which all your adversaries shall not be able to gainsay nor resist.
-
-16 And ye shall be betrayed both by parents, and brethren, and kinsfolks, and friends; and *some* of you shall they cause to be put to death.
-
-17 And ye shall be hated of all *men* for my name’s sake.
-
-18 But there shall not an hair of your head perish.
-
-19 In your patience possess ye your souls.
-
-20 And when ye shall see Jerusalem compassed with armies, then know that the desolation thereof is nigh.
-
-21 Then let them which are in Judæa flee to the mountains; and let them which are in the midst of it depart out; and let not them that are in the countries enter thereinto.
-
-22 For these be the days of vengeance, that all things which are written may be fulfilled.
-
-23 But woe unto them that are with child, and to them that give suck, in those days! for there shall be great distress in the land, and wrath upon this people.
-
-24 And they shall fall by the edge of the sword, and shall be led away captive into all nations: and Jerusalem shall be trodden down of the Gentiles, until the times of the Gentiles be fulfilled.
-
-25 And there shall be signs in the sun, and in the moon, and in the stars; and upon the earth distress of nations, with perplexity; the sea and the waves roaring;
-
-26 Men’s hearts failing them for fear, and for looking after those things which are coming on the earth: for the powers of heaven shall be shaken.
-
-27 And then shall they see the Son of man coming in a cloud with power and great glory.
-
-28 And when these things begin to come to pass, then look up, and lift up your heads; for your redemption draweth nigh.
-
-29 And he spake to them a parable; Behold the fig tree, and all the trees;
-
-30 When they now shoot forth, ye see and know of your own selves that summer is now nigh at hand.
-
-31 So likewise ye, when ye see these things come to pass, know ye that the kingdom of God is nigh at hand.
-
-32 Verily I say unto you, This generation shall not pass away, till all be fulfilled.
-
-33 Heaven and earth shall pass away: but my words shall not pass away.
-
-34 And take heed to yourselves, lest at any time your hearts be overcharged with surfeiting, and drunkenness, and cares of this life, and *so* that day come upon you unawares.
-
-35 For as a snare shall it come on all them that dwell on the face of the whole earth.
-
-36 Watch ye therefore, and pray always, that ye may be accounted worthy to escape all these things that shall come to pass, and to stand before the Son of man.
-
-37 And in the day time he was teaching in the temple; and at night he went out, and abode in the mount that is called *the* *mount* of Olives.
-
-38 And all the people came early in the morning to him in the temple, for to hear him.
+<iframe src="https://player.rss.com/good-old-news/1133304" style="width: 100%" title="Good Old News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen><a href="https://rss.com/podcasts/good-old-news/1133304/">Delated Rapture | RSS.com</a></iframe>
 
 ---
 
-![s4](./assets/s4.webp)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wa-RGnCfb9k?si=eJ48XSyHv2_6aFPn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<iframe src="https://player.rss.com/good-old-news/1119544" style="width: 100%" title="Good Old News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen><a href="https://rss.com/podcasts/good-old-news/1119544/">Mark 13 | RSS.com</a></iframe>
+---
 
-AND as he went out of the temple, one of his disciples saith unto him, Master, see what manner of stones and what buildings *are* *here!*
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UZZr2rbVtzk?si=0vaFr5Kfzlq_660U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-2 And Jesus answering said unto him, Seest thou these great buildings? there shall not be left one stone upon another, that shall not be thrown down.
+---
 
-3 And as he sat upon the mount of Olives over against the temple, Peter and James and John and Andrew asked him privately,
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n7sbdh5QWcQ?si=JITDF6FEFL7Sjr13" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-4 Tell us, when shall these things be? and what *shall* *be* the sign when all these things shall be fulfilled?
+---
 
-5 And Jesus answering them began to say, Take heed lest any *man* deceive you:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_liL8E9t9_Y?si=_lZbLLG7dOQJK_ED" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-6 For many shall come in my name, saying, I am *Christ;* and shall deceive many.
+![s5](./assets/s5.webp)
 
-7 And when ye shall hear of wars and rumours of wars, be ye not troubled: for *such* *things* must needs be; but the end *shall* not *be* yet.
+**22**<font color="#ff0000">And except those days should be shortened, there should no flesh be saved: but for the elect’s sake those days shall be shortened</font>.
 
-8 For nation shall rise against nation, and kingdom against kingdom: and there shall be earthquakes in divers places, and there shall be famines and troubles: these *are* the beginnings of sorrows.
+---
 
-9 But take heed to yourselves: for they shall deliver you up to councils; and in the synagogues ye shall be beaten: and ye shall be brought before rulers and kings for my sake, for a testimony against them.
+![s6](./assets/s6.webp)
 
-10 And the gospel must first be published among all nations.
+**9***Even* *him*, whose coming is after the working of Satan with all power and signs and lying wonders,
+**10**And with all deceivableness of unrighteousness in them that perish; because they received not the love of the truth, that they might be saved.
+**11**And for this cause God shall send them strong delusion, that they should believe a lie:
+**12**That they all might be damned who believed not the truth, but had pleasure in unrighteousness.
 
-11 But when they shall lead *you*, and deliver you up, take no thought beforehand what ye shall speak, neither do ye premeditate: but whatsoever shall be given you in that hour, that speak ye: for it is not ye that speak, but the Holy Ghost.
+---
 
-12 Now the brother shall betray the brother to death, and the father the son; and children shall rise up against *their* parents, and shall cause them to be put to death.
+![s7](./assets/s7.webp)
 
-13 And ye shall be hated of all *men* for my name’s sake: but he that shall endure unto the end, the same shall be saved.
+**24**<font color="#ff0000">For there shall arise false Christs, and false prophets, and shall shew great signs and wonders; insomuch that, if</font> *it* *were* <font color="#ff0000">possible, they shall deceive the very elect</font>.
 
-14 But when ye shall see the abomination of desolation, spoken of by Daniel the prophet, standing where it ought not, (let him that readeth understand,) then let them that be in Judæa flee to the mountains:
+---
 
-15 And let him that is on the housetop not go down into the house, neither enter *therein*, to take any thing out of his house:
+![s8](./assets/s8.webp)
 
-16 And let him that is in the field not turn back again for to take up his garment.
+**28**<font color="#ff0000">And when these things begin to come to pass, then look up, and lift up your heads; for your redemption draweth nigh</font>.
 
-17 But woe to them that are with child, and to them that give suck in those days!
+---
 
-18 And pray ye that your flight be not in the winter.
+![s8](./assets/s8-1695146688418-1.webp)
 
-19 For *in* those days shall be affliction, such as was not from the beginning of the creation which God created unto this time, neither shall be.
+**1**I beseech you therefore, brethren, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable unto God, *which* *is* your reasonable service.
+**2**And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what *is* that good, and acceptable, and perfect, will of God.
+**3**For I say, through the grace given unto me, to every man that is among you, not to think *of* *himself* more highly than he ought to think; but to think soberly, according as God hath dealt to every man the measure of faith.
 
-20 And except that the Lord had shortened those days, no flesh should be saved: but for the elect’s sake, whom he hath chosen, he hath shortened the days.
+---
 
-21 And then if any man shall say to you, Lo, here *is* Christ; or, lo, *he* *is* there; believe *him* not:
+![s9](./assets/s9.webp)
 
-22 For false Christs and false prophets shall rise, and shall shew signs and wonders, to seduce, if *it* *were* possible, even the elect.
+**13**And not as Moses, *which* put a vail over his face, that the children of Israel could not stedfastly look to the end of that which is abolished:
+**14**But their minds were blinded: for until this day remaineth the same vail untaken away in the reading of the old testament; which *vail* is done away in Christ.
+**15**But even unto this day, when Moses is read, the vail is upon their heart.
+**16**Nevertheless when it shall turn to the Lord, the vail shall be taken away.
+**17**Now the Lord is that Spirit: and where the Spirit of the Lord *is*, there *is* liberty.
+**18**But we all, with open face beholding as in a glass the glory of the Lord, are changed into the same image from glory to glory, *even* as by the Spirit of the Lord.
 
-23 But take ye heed: behold, I have foretold you all things.
+---
 
-24 But in those days, after that tribulation, the sun shall be darkened, and the moon shall not give her light,
+![s10](./assets/s10.webp)
 
-25 And the stars of heaven shall fall, and the powers that are in heaven shall be shaken.
+**7**And lest I should be exalted above measure through the abundance of the revelations, there was given to me a thorn in the flesh, the messenger of Satan to buffet me, lest I should be exalted above measure.
+**8**For this thing I besought the Lord thrice, that it might depart from me.
+**9**And he said unto me, My grace is sufficient for thee: for my strength is made perfect in weakness. Most gladly therefore will I rather glory in my infirmities, that the power of Christ may rest upon me.
+**10**Therefore I take pleasure in infirmities, in reproaches, in necessities, in persecutions, in distresses for Christ’s sake: for when I am weak, then am I strong.
 
-26 And then shall they see the Son of man coming in the clouds with great power and glory.
+---
 
-27 And then shall he send his angels, and shall gather together his elect from the four winds, from the uttermost part of the earth to the uttermost part of heaven.
+<iframe src="https://player.rss.com/good-old-news/1129120" style="width: 100%" title="Good Old News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen><a href="https://rss.com/podcasts/good-old-news/1129120/">Joel | RSS.com</a></iframe>
 
-28 Now learn a parable of the fig tree; When her branch is yet tender, and putteth forth leaves, ye know that summer is near:
+<img src="./assets/s2.webp" alt="s2"  />
 
-29 So ye in like manner, when ye shall see these things come to pass, know that it is nigh, *even* at the doors.
+**Category:** Minor Prophets
 
-30 Verily I say unto you, that this generation shall not pass, till all these things be done.
+**1**The word of the LORD that came to Joel the son of Pethuel.
+**2**Hear this, ye old men, and give ear, all ye inhabitants of the land. Hath this been in your days, or even in the days of your fathers?
+**3**Tell ye your children of it, and *let* your children *tell* their children, and their children another generation.
+**4**That which the palmerworm hath left hath the locust eaten; and that which the locust hath left hath the cankerworm eaten; and that which the cankerworm hath left hath the caterpiller eaten.
+**5**Awake, ye drunkards, and weep; and howl, all ye drinkers of wine, because of the new wine; for it is cut off from your mouth.
+**6**For a nation is come up upon my land, strong, and without number, whose teeth *are* the teeth of a lion, and he hath the cheek teeth of a great lion.
+**7**He hath laid my vine waste, and barked my fig tree: he hath made it clean bare, and cast *it* away; the branches thereof are made white.
 
-31 Heaven and earth shall pass away: but my words shall not pass away.
+**8**¶ Lament like a virgin girded with sackcloth for the husband of her youth.
+**9**The meat offering and the drink offering is cut off from the house of the LORD; the priests, the LORD’S ministers, mourn.
+**10**The field is wasted, the land mourneth; for the corn is wasted: the new wine is dried up, the oil languisheth.
+**11**Be ye ashamed, O ye husbandmen; howl, O ye vinedressers, for the wheat and for the barley; because the harvest of the field is perished.
+**12**The vine is dried up, and the fig tree languisheth; the pomegranate tree, the palm tree also, and the apple tree, *even* all the trees of the field, are withered: because joy is withered away from the sons of men.
+**13**Gird yourselves, and lament, ye priests: howl, ye ministers of the altar: come, lie all night in sackcloth, ye ministers of my God: for the meat offering and the drink offering is withholden from the house of your God.
 
-32 But of that day and *that* hour knoweth no man, no, not the angels which are in heaven, neither the Son, but the Father.
+**14**¶ Sanctify ye a fast, call a solemn assembly, gather the elders *and* all the inhabitants of the land *into* the house of the LORD your God, and cry unto the LORD,
+**15**Alas for the day! for the day of the LORD *is* at hand, and as a destruction from the Almighty shall it come.
+**16**Is not the meat cut off before our eyes, *yea*, joy and gladness from the house of our God?
+**17**The seed is rotten under their clods, the garners are laid desolate, the barns are broken down; for the corn is withered.
+**18**How do the beasts groan! the herds of cattle are perplexed, because they have no pasture; yea, the flocks of sheep are made desolate.
+**19**O LORD, to thee will I cry: for the fire hath devoured the pastures of the wilderness, and the flame hath burned all the trees of the field.
+**20**The beasts of the field cry also unto thee: for the rivers of waters are dried up, and the fire hath devoured the pastures of the wilderness.
 
-33 Take ye heed, watch and pray: for ye know not when the time is.
+---
 
-34 *For* *the* *Son* *of* *man* *is* as a man taking a far journey, who left his house, and gave authority to his servants, and to every man his work, and commanded the porter to watch.
+<img src="./assets/s3.webp" alt="s3"  />
 
-35 Watch ye therefore: for ye know not when the master of the house cometh, at even, or at midnight, or at the cockcrowing, or in the morning:
+**1**Blow ye the trumpet in Zion, and sound an alarm in my holy mountain: let all the inhabitants of the land tremble: for the day of the LORD cometh, for *it* *is* nigh at hand;
+**2**A day of darkness and of gloominess, a day of clouds and of thick darkness, as the morning spread upon the mountains: a great people and a strong; there hath not been ever the like, neither shall be any more after it, *even* to the years of many generations.
+**3**A fire devoureth before them; and behind them a flame burneth: the land *is* as the garden of Eden before them, and behind them a desolate wilderness; yea, and nothing shall escape them.
+**4**The appearance of them *is* as the appearance of horses; and as horsemen, so shall they run.
+**5**Like the noise of chariots on the tops of mountains shall they leap, like the noise of a flame of fire that devoureth the stubble, as a strong people set in battle array.
+**6**Before their face the people shall be much pained: all faces shall gather blackness.
+**7**They shall run like mighty men; they shall climb the wall like men of war; and they shall march every one on his ways, and they shall not break their ranks:
+**8**Neither shall one thrust another; they shall walk every one in his path: and *when* they fall upon the sword, they shall not be wounded.
+**9**They shall run to and fro in the city; they shall run upon the wall, they shall climb up upon the houses; they shall enter in at the windows like a thief.
+**10**The earth shall quake before them; the heavens shall tremble: the sun and the moon shall be dark, and the stars shall withdraw their shining:
+**11**And the LORD shall utter his voice before his army: for his camp *is* very great: for *he* *is* strong that executeth his word: for the day of the LORD *is* great and very terrible; and who can abide it?
 
-36 Lest coming suddenly he find you sleeping.
+**12**¶ Therefore also now, saith the LORD, turn ye *even* to me with all your heart, and with fasting, and with weeping, and with mourning:
+**13**And rend your heart, and not your garments, and turn unto the LORD your God: for he *is* gracious and merciful, slow to anger, and of great kindness, and repenteth him of the evil.
+**14**Who knoweth *if* he will return and repent, and leave a blessing behind him; *even* a meat offering and a drink offering unto the LORD your God?
 
-37 And what I say unto you I say unto all, Watch.
+**15**¶ Blow the trumpet in Zion, sanctify a fast, call a solemn assembly:
+**16**Gather the people, sanctify the congregation, assemble the elders, gather the children, and those that suck the breasts: let the bridegroom go forth of his chamber, and the bride out of her closet.
+**17**Let the priests, the ministers of the LORD, weep between the porch and the altar, and let them say, Spare thy people, O LORD, and give not thine heritage to reproach, that the heathen should rule over them: wherefore should they say among the people, Where *is* their God?
+
+**18**¶ Then will the LORD be jealous for his land, and pity his people.
+**19**Yea, the LORD will answer and say unto his people, Behold, I will send you corn, and wine, and oil, and ye shall be satisfied therewith: and I will no more make you a reproach among the heathen:
+**20**But I will remove far off from you the northern *army*, and will drive him into a land barren and desolate, with his face toward the east sea, and his hinder part toward the utmost sea, and his stink shall come up, and his ill savour shall come up, because he hath done great things.
+
+**21**¶ Fear not, O land; be glad and rejoice: for the LORD will do great things.
+**22**Be not afraid, ye beasts of the field: for the pastures of the wilderness do spring, for the tree beareth her fruit, the fig tree and the vine do yield their strength.
+**23**Be glad then, ye children of Zion, and rejoice in the LORD your God: for he hath given you the former rain moderately, and he will cause to come down for you the rain, the former rain, and the latter rain in the first *month*.
+**24**And the floors shall be full of wheat, and the fats shall overflow with wine and oil.
+**25**And I will restore to you the years that the locust hath eaten, the cankerworm, and the caterpiller, and the palmerworm, my great army which I sent among you.
+**26**And ye shall eat in plenty, and be satisfied, and praise the name of the LORD your God, that hath dealt wondrously with you: and my people shall never be ashamed.
+**27**And ye shall know that I *am* in the midst of Israel, and *that* I *am* the LORD your God, and none else: and my people shall never be ashamed.
+
+**28**¶ And it shall come to pass afterward, *that* I will pour out my spirit upon all flesh; and your sons and your daughters shall prophesy, your old men shall dream dreams, your young men shall see visions:
+**29**And also upon the servants and upon the handmaids in those days will I pour out my spirit.
+**30**And I will shew wonders in the heavens and in the earth, blood, and fire, and pillars of smoke.
+**31**The sun shall be turned into darkness, and the moon into blood, before the great and the terrible day of the LORD come.
+**32**And it shall come to pass, *that* whosoever shall call on the name of the LORD shall be delivered: for in mount Zion and in Jerusalem shall be deliverance, as the LORD hath said, and in the remnant whom the LORD shall call.
+
+---
+
+<img src="./assets/s4.webp" alt="s4"  />
+
+**1**For, behold, in those days, and in that time, when I shall bring again the captivity of Judah and Jerusalem,
+**2**I will also gather all nations, and will bring them down into the valley of Jehoshaphat, and will plead with them there for my people and *for* my heritage Israel, whom they have scattered among the nations, and parted my land.
+**3**And they have cast lots for my people; and have given a boy for an harlot, and sold a girl for wine, that they might drink.
+**4**Yea, and what have ye to do with me, O Tyre, and Zidon, and all the coasts of Palestine? will ye render me a recompence? and if ye recompense me, swiftly *and* speedily will I return your recompence upon your own head;
+**5**Because ye have taken my silver and my gold, and have carried into your temples my goodly pleasant things:
+**6**The children also of Judah and the children of Jerusalem have ye sold unto the Grecians, that ye might remove them far from their border.
+**7**Behold, I will raise them out of the place whither ye have sold them, and will return your recompence upon your own head:
+**8**And I will sell your sons and your daughters into the hand of the children of Judah, and they shall sell them to the Sabeans, to a people far off: for the LORD hath spoken *it*.
+
+**9**¶ Proclaim ye this among the Gentiles; Prepare war, wake up the mighty men, let all the men of war draw near; let them come up:
+**10**Beat your plowshares into swords, and your pruninghooks into spears: let the weak say, I *am* strong.
+**11**Assemble yourselves, and come, all ye heathen, and gather yourselves together round about: thither cause thy mighty ones to come down, O LORD.
+**12**Let the heathen be wakened, and come up to the valley of Jehoshaphat: for there will I sit to judge all the heathen round about.
+**13**Put ye in the sickle, for the harvest is ripe: come, get you down; for the press is full, the fats overflow; for their wickedness *is* great.
+**14**Multitudes, multitudes in the valley of decision: for the day of the LORD *is* near in the valley of decision.
+**15**The sun and the moon shall be darkened, and the stars shall withdraw their shining.
+**16**The LORD also shall roar out of Zion, and utter his voice from Jerusalem; and the heavens and the earth shall shake: but the LORD *will* *be* the hope of his people, and the strength of the children of Israel.
+**17**So shall ye know that I *am* the LORD your God dwelling in Zion, my holy mountain: then shall Jerusalem be holy, and there shall no strangers pass through her any more.
+
+**18**¶ And it shall come to pass in that day, *that* the mountains shall drop down new wine, and the hills shall flow with milk, and all the rivers of Judah shall flow with waters, and a fountain shall come forth of the house of the LORD, and shall water the valley of Shittim.
+**19**Egypt shall be a desolation, and Edom shall be a desolate wilderness, for the violence *against* the children of Judah, because they have shed innocent blood in their land.
+**20**But Judah shall dwell for ever, and Jerusalem from generation to generation.
+**21**For I will cleanse their blood *that* I have not cleansed: for the LORD dwelleth in Zion.
+
+---
+
+![s15](./assets/s15.webp)
+
+Dear Heavenly ***Father***
+You know *everything* about me,
+and you know that I’m a *sinner*.
+
+
+
+For many years, I have *loved my sins*.
+I hereby *repent* from all *my sinful ways*.
+
+
+
+I’m willing to *change with **Your** help*,
+I receive your *forgiveness*, and I pray that ***you** help me*
+*forgive* those, who have *hurt me*.
+
+
+
+I know I only receive *forgiveness*, as I *forgive others*.
+
+
+
+Thank You that *Jesus **Christ** died* on the cross for *us all*.
+Thank You that He offers His *righteousness* to me,
+and today this very day, I receive that *righteousness*.
+
+
+
+I *hereby* put my *faith* in Him, the ***savior*** of the world.
+So please God have *mercy* on me, a *sinner*.
+***Save me Jesus Christ***, and today this very day,
+***I commit my life to you Lord Jesus Christ***.
+
+![s16](./assets/s16.webp)
 
 ---
 
