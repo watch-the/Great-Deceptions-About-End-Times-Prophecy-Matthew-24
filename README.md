@@ -1,1 +1,0 @@
-[# Great-Deceptions-About-End-Times-Prophecy-Matthew-24](https://watch-the.github.io/Great-Deceptions-About-End-Times-Prophecy-Matthew-24/)https://watch-the.github.io/Great-Deceptions-About-End-Times-Prophecy-Matthew-24/
